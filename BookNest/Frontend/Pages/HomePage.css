@@ -1,0 +1,13 @@
+/* HomePage.css */
+
+h1, h2 {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+img{
+  height: 500%;
+}
