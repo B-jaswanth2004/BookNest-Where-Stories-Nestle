@@ -1,0 +1,12 @@
+.container my-5{
+    background: linear-gradient(to right, #f7f9fc, #e0ecff);
+
+}
+.card-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.card-text {
+  margin-bottom: 0.5rem;
+}
