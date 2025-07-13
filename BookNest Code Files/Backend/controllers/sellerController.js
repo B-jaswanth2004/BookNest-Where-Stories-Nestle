@@ -1,5 +1,5 @@
 const Book = require('../models/Book');
-const Order = require('../models/order');
+const Order = require('../models/Order');
 
 // Add a new book
 exports.addBook = async (req, res) => {
