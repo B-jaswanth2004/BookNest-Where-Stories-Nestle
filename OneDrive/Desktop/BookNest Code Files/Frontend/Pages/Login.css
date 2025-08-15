@@ -1,0 +1,14 @@
+.login-page {
+  min-height: 80.7vh;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #f7f9fc, #e0ecff);
+}
+
+.login-container {
+  max-width: 900px;
+}
+
+img.img-fluid {
+  max-height: 300px;
+  object-fit: contain;
+}

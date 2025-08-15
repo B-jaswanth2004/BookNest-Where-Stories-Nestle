@@ -1,0 +1,13 @@
+.signup-page {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #f5fafd, #e6f9ff);
+}
+
+.signup-container {
+  max-width: 900px;
+}
+
+img.img-fluid {
+  max-height: 300px;
+  object-fit: contain;
+}

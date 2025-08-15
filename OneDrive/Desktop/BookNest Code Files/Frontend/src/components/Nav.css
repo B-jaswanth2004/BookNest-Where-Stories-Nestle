@@ -1,0 +1,24 @@
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  font-weight: 500;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+Link{
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #d4f2e7 !important;
+}
+.nav{
+  background-color: green;
+}
+
+@media screen {
+  
+}
